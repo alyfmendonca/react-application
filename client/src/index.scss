@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  body {
+    background: rgb(230, 230, 230);;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    height: 100%;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    > #root {
+      height: 100%;
+      > div {
+        height: 100%;
+      }
+      td {
+        max-width: 300px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      
+    }
+  }
+}

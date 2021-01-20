@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+config/keys_dev.js
+client/node_modules
+yarn.lock
+yarn--*/
+public/uploads
+v8*
+.DS_Store
+client/yarn.lock
+/*.env

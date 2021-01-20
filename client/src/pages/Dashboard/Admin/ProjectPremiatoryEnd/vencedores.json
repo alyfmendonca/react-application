@@ -1,0 +1,419 @@
+{
+    "Contatos": [
+        {
+            "Codigo": "ESRJ 025",
+            "Empresa": "Pepsico",
+            "Título do Projeto": "DORITOS® RAINBOW: COLORiR AS DIFERENÇAS",
+            "Categoria": "Diversidade e Inclusão"
+        },
+        {
+            "Codigo": "MGCO 081",
+            "Empresa": "USIMINAS - Usinas Siderúrgicas de Minas Gerais",
+            "Título do Projeto": "A Usiminas abraça a diversidade e a diversidade abraça a todos (e todas)",
+            "Categoria": "Diversidade e Inclusão "
+        },
+        {
+            "Codigo": "MGCO 019",
+            "Empresa": "ArcelorMittal Brasil",
+            "Título do Projeto": "Uma jornada pela inclusão",
+            "Categoria": "Diversidade e Inclusão "
+        },
+        {
+            "Codigo": "NONE 002",
+            "Empresa": "BRK Ambiental e Participações",
+            "Título do Projeto": "Saneamento que Une: acessibilidade como instrumento de transformação e inclusão social na prevenção à Covid-19",
+            "Categoria": "Diversidade e Inclusão"
+        },
+        {
+            "Codigo": "SP 062",
+            "Empresa": "HBO Latin America Production Services",
+            "Título do Projeto": "Todxs Nós e a Linguagem Inclusiva",
+            "Categoria": "Diversidade e Inclusão"
+        },
+        {
+            "Codigo": "ESRJ 028",
+            "Empresa": "Prudential do Brasil Seguros de Vida",
+            "Título do Projeto": "Concurso de Desenhos: ética e integridade na ponta do lápis.",
+            "Categoria": "Ética, Integridade e Compliance"
+        },
+        {
+            "Codigo": "MGCO 006",
+            "Empresa": "Amaggi Exportação e Importação",
+            "Título do Projeto": "Pode Isso? Uma viagem de milhares de quilômetros para fortalecer a integridade e o Compliance.",
+            "Categoria": "Ética, Integridade e Compliance "
+        },
+        {
+            "Codigo": "SP 085",
+            "Empresa": "Klabin",
+            "Título do Projeto": "Semana da Ética Klabin",
+            "Categoria": "Ética, Integridade e Compliance "
+        },
+        {
+            "Codigo": "SUL 014",
+            "Empresa": "Fundação Grupo Boticário de Proteção à Natureza",
+            "Título do Projeto": "Grandes marcas desaparecem para uma conversa importante aparecer.",
+            "Categoria": "Sustentabilidade Organizacional"
+        },
+        {
+            "Codigo": "MGCO 060",
+            "Empresa": "Gerdau",
+            "Título do Projeto": "Casa Sustentável Gerdau",
+            "Categoria": "Sustentabilidade Organizacional"
+        },
+        {
+            "Codigo": "NONE 007",
+            "Empresa": "FCA - Fiat Chrysler Automóveis Brasil",
+            "Título do Projeto": "Jornada da Sustentabilidade FCA",
+            "Categoria": "Sustentabilidade Organizacional "
+        },
+        {
+            "Codigo": "NONE 010",
+            "Empresa": "Fundação Odebrechet",
+            "Título do Projeto": "Comunicando Impactos de Transformação Social – Case da Avaliação de Impactos do PDCIS, Programa Social da Fundação Odebrecht.",
+            "Categoria": "Sustentabilidade Organizacional "
+        },
+        {
+            "Codigo": "SP 032",
+            "Empresa": "BRK Ambiental",
+            "Título do Projeto": "Nave BRK: aprendendo sobre saneamento com o apoio da realidade virtual",
+            "Categoria": "Sustentabilidade Organizacional"
+        },
+        {
+            "Codigo": "ESRJ 012",
+            "Empresa": "GL Events Exhibitions",
+            "Título do Projeto": "Tentativa de censura à XIX Bienal do Livro Rio",
+            "Categoria": "Gestão de Crises"
+        },
+        {
+            "Codigo": "MGCO 032",
+            "Empresa": "CNH Industrial",
+            "Título do Projeto": "Pandemia do novo coronavírus",
+            "Categoria": "Gestão de Crises",
+            "undefined": "AC Gabriela Lobo - Rua das Estrelas, 35 I Apt 1603 – Vila da Serra – MG - CEP: 34006-089"
+        },
+        {
+            "Codigo": "NONE 017",
+            "Empresa": "Marista Centro-Norte ",
+            "Título do Projeto": "Liga Marista dos Cuidados Diários: o combate a um inimigo invisível com uma liga de cuidados especiais",
+            "Categoria": "Gestão de Crises "
+        },
+        {
+            "Codigo": "SP 038",
+            "Empresa": "Grupo Carrefour Brasil",
+            "Título do Projeto": "Comunicação de programas, projetos e ações voltados a Gestão de Crise da Covid-19",
+            "Categoria": "Gestão de Crises"
+        },
+        {
+            "Codigo": "SUL 009",
+            "Empresa": "CMPC ",
+            "Título do Projeto": "Informar, Convencer e Orientar: como a comunicação foi peça central para travessia segura da CMPC durante o período de pandemia",
+            "Categoria": "Gestão de Crises "
+        },
+        {
+            "Codigo": "ESRJ 035",
+            "Empresa": "Unimed - Rio Cooperativa de Trabalho Médico do Rio de Janeiro",
+            "Título do Projeto": "Mude 1 Hábito: mais que um discurso de marca, um convite ao carioca para buscar sua melhor versão",
+            "Categoria": "Marca"
+        },
+        {
+            "Codigo": "MGCO 045",
+            "Empresa": "Companhia Energética de Minas",
+            "Título do Projeto": "SIM, uma marca que diz mais sim do que não. ",
+            "Categoria": "Marca"
+        },
+        {
+            "Codigo": "NONE 011",
+            "Empresa": "Klabin",
+            "Título do Projeto": "#KlabinDeuOnda - Klabin mergulha na defesa dos oceanos",
+            "Categoria": "Marca "
+        },
+        {
+            "Codigo": "SP 115",
+            "Empresa": "Scania Latin America",
+            "Título do Projeto": "Inovathon, open space para falar sobre mobilidade sustentável ",
+            "Categoria": "Marca "
+        },
+        {
+            "Codigo": "SP 139",
+            "Empresa": "XP Investimentos Corretora de Câmbio, Títulos e Valores Imobiliários",
+            "Título do Projeto": "IPO XP INC., Além do impossível",
+            "Categoria": "Marca "
+        },
+        {
+            "Codigo": "SUL 024",
+            "Empresa": "Empresas Randon",
+            "Título do Projeto": "Juntos, inovando por um futuro melhor: reposicionamento das Empresas Randon como marca inovadora aos 70 anos",
+            "Categoria": "Marca"
+        },
+        {
+            "Codigo": "ESRJ 006",
+            "Empresa": "Confederação Brasileira de Futebol",
+            "Título do Projeto": "50 anos do Tricampeonato Mundial da Seleção Brasileira",
+            "Categoria": "Memória Organizacional"
+        },
+        {
+            "Codigo": "MGCO 050",
+            "Empresa": "FCA - FIAT Chrysler Automóveis Brasil ",
+            "Título do Projeto": "40 Anos do Primeiro Carro Movido a Etanol: O resgate da história e a conexão afetiva com a marca FIAT",
+            "Categoria": "Memória Organizacional"
+        },
+        {
+            "Codigo": "SP 041",
+            "Empresa": "CPFL - Companhia Paulista de Força e Luz",
+            "Título do Projeto": "Espaço Mosaico - CPFL em Movimento",
+            "Categoria": "Memória Organizacional "
+        },
+        {
+            "Codigo": "SP 102",
+            "Empresa": "Natura Cosméticos",
+            "Título do Projeto": "Exposição Rede de Afeto: os 50 anos da Natura",
+            "Categoria": "Memória Organizacional "
+        },
+        {
+            "Codigo": "ESRJ 021",
+            "Empresa": "Nissan do Brasil Automóveis",
+            "Título do Projeto": "Eletrificando o Brasil - O Nissan LEAF chega ao país",
+            "Categoria": "Multipúblicos"
+        },
+        {
+            "Codigo": "MGCO 053",
+            "Empresa": "FCA - FIAT Chrysler Automóveis Brasil ",
+            "Título do Projeto": "Beleza em Movimento: Ícones do Design Italiano na Casa Fiat de Cultura",
+            "Categoria": "Multipúblicos "
+        },
+        {
+            "Codigo": "MGCO 066",
+            "Empresa": "Santa Casa de Misericórdia de Belo Horizonte",
+            "Título do Projeto": "Batalha pela vida",
+            "Categoria": "Multipúblicos "
+        },
+        {
+            "Codigo": "NONE 013",
+            "Empresa": "Norsky Hydro",
+            "Título do Projeto": "Uma nova história de relacionamento com stakeholders no Pará",
+            "Categoria": "Multipúblicos"
+        },
+        {
+            "Codigo": "SP 101",
+            "Empresa": "Natura &Co",
+            "Título do Projeto": "Comunicando a criação do melhor grupo de beleza PARA o mundo",
+            "Categoria": "Multipúblicos"
+        },
+        {
+            "Codigo": "SUL 007",
+            "Empresa": "CMPC Celulose Riograndense",
+            "Título do Projeto": "Eventos 10100 CMPC",
+            "Categoria": "Multipúblicos"
+        },
+        {
+            "Codigo": "ESRJ 034",
+            "Empresa": "Unimed - Rio Cooperativa de Trabalho Médico do Rio de Janeiro",
+            "Título do Projeto": "Nossos Hábitos: o surgimento de uma nova Unimed-Rio através da transformação da cultura organizacional",
+            "Categoria": "Público Interno"
+        },
+        {
+            "Codigo": "MGCO 033",
+            "Empresa": "CNH Industrial",
+            "Título do Projeto": "Customer Experience: transformação cultural da CNH Industrial",
+            "Categoria": "Público Interno"
+        },
+        {
+            "Codigo": "SP 001",
+            "Empresa": "Novartis Biociencias",
+            "Título do Projeto": "Programa de engajamento e apoio ao colaborador durante a pandemia Covid-19",
+            "Categoria": "Público Interno"
+        },
+        {
+            "Codigo": "SUL 023",
+            "Empresa": "Paraná Banco",
+            "Título do Projeto": "Cultura PB - Construindo uma empresa que amamos",
+            "Categoria": "Público Interno "
+        },
+        {
+            "Codigo": "SUL 002",
+            "Empresa": "Associação Paranaense de Cultura - APC",
+            "Título do Projeto": "PUCPR SUMMID - O Jeito PUCPR de ser - 1° Congresso da PUCPR para formadores de opinião da universidade - docentes e colaboradores",
+            "Categoria": "Público Interno "
+        },
+        {
+            "Codigo": "ESRJ 015",
+            "Empresa": "Instituto Nissan do Brasil",
+            "Título do Projeto": "Inova-san",
+            "Categoria": "Sociedade"
+        },
+        {
+            "Codigo": "MGCO 061",
+            "Empresa": "Hermes Pardini",
+            "Título do Projeto": "Da Janela Lateral",
+            "Categoria": "Sociedade"
+        },
+        {
+            "Codigo": "NONE 015",
+            "Empresa": "Norte Energia",
+            "Título do Projeto": "Belo Monte Comunidade",
+            "Categoria": "Sociedade"
+        },
+        {
+            "Codigo": "SP 074",
+            "Empresa": "Instituto Avon",
+            "Título do Projeto": "Isoladas Sim, Sozinhas Não",
+            "Categoria": "Sociedade"
+        },
+        {
+            "Codigo": "SUL 021",
+            "Empresa": "Klabin",
+            "Título do Projeto": "COMCOVID-PR e Coalizão de Comunicação - A união de esforços para conter o avanço da Covid-19 em Telêmaco Borba (PR) e região",
+            "Categoria": "Sociedade "
+        },
+        {
+            "Codigo": "SUL 027",
+            "Empresa": "PUCRS",
+            "Título do Projeto": "PUCRS Cultura - Mobilização Cultural em Tempos de Isolamento Social",
+            "Categoria": "Sociedade "
+        },
+        {
+            "Codigo": "ESRJ 007",
+            "Empresa": "Editora Globo",
+            "Título do Projeto": "Rio Gastronomia",
+            "Categoria": "Evento "
+        },
+        {
+            "Codigo": "MGCO 051",
+            "Empresa": "FCA - FIAT Chrysler Automóveis Brasil ",
+            "Título do Projeto": "Lançamento Nova Fiat Strada",
+            "Categoria": "Evento "
+        },
+        {
+            "Codigo": "NONE 008",
+            "Empresa": "FCA - Fiat Chrysler Automóveis Brasil",
+            "Título do Projeto": "Jeep Experience - Pantanal",
+            "Categoria": "Evento"
+        },
+        {
+            "Codigo": "SP 054",
+            "Empresa": "Enel ",
+            "Título do Projeto": "Urban Futurability: O desafio de trazer o futuro no presente",
+            "Categoria": "Evento"
+        },
+        {
+            "Codigo": "SUL 003",
+            "Empresa": "Associação Paranaense de Cultura - APC",
+            "Título do Projeto": "COLAÇÃO DE GRAU INSTITUCIONAL PUCPR - Estádio Joaquim Américo Guimarães - Tradição, Inovação e Inclusão Social",
+            "Categoria": "Evento"
+        },
+        {
+            "Codigo": "MGCO 036",
+            "Empresa": "Companhia Brasileira de Metalurgia e Mineração",
+            "Título do Projeto": "Mobilidade sustentável: a Formula E e a marca Niobium",
+            "Categoria": "Imprensa eou Influenciadores "
+        },
+        {
+            "Codigo": "NONE 014",
+            "Empresa": "Norsk Hydro",
+            "Título do Projeto": "Hydro de portas abertas: proatividade e transparência no relacionamento com a imprensa",
+            "Categoria": "Imprensa eou Influenciadores  "
+        },
+        {
+            "Codigo": "NONE 016",
+            "Empresa": "Marista Centro-Norte",
+            "Título do Projeto": "Marista na Mídia: A visibilidade no antes, durante e depois da pandemia",
+            "Categoria": "Imprensa eou Influenciadores "
+        },
+        {
+            "Codigo": "SP 105",
+            "Empresa": "Pfizer",
+            "Título do Projeto": "Na Direção da Vida – Depressão sem Tabu",
+            "Categoria": "Imprensa eou Influenciadores"
+        },
+        {
+            "Codigo": "SUL 026",
+            "Empresa": "Tupy",
+            "Título do Projeto": "A força da Tupy",
+            "Categoria": "Imprensa eou Influenciadores "
+        },
+        {
+            "Codigo": "MGCO 028",
+            "Empresa": "BH Airport",
+            "Título do Projeto": "O ano da experiência",
+            "Categoria": "ConsumidorCliente  "
+        },
+        {
+            "Codigo": "SP 016",
+            "Empresa": "Avon Cosmeticos",
+            "Título do Projeto": "Power Stay – Batom da Marta – Gol, batom e empoderamento feminino",
+            "Categoria": "ConsumidorCliente"
+        },
+        {
+            "Codigo": "MGCO 059",
+            "Empresa": "Gerdau",
+            "Título do Projeto": "Filme Similaridades",
+            "Categoria": "Mídia Audiovisual"
+        },
+        {
+            "Codigo": "SP 033",
+            "Empresa": "BRK Ambiental",
+            "Título do Projeto": "Saneamento Essencial: comunicação para os desafios da pandemia",
+            "Categoria": "Mídia Audiovisual"
+        },
+        {
+            "Codigo": "SUL 020",
+            "Empresa": "Klabin",
+            "Título do Projeto": "Rádio Florestal da Klabin na pandemia - Mais acesso e frequência para vencer a desinformação",
+            "Categoria": "Mídia Audiovisual "
+        },
+        {
+            "Codigo": "ESRJ 014",
+            "Empresa": "Instituto Brasileiro de Petróleo Gás e Biocombustíveis - IBP",
+            "Título do Projeto": "Instituto Brasileiro de Petróleo Gás e Biocombustíveis #ENERGIAPARASUPERAR",
+            "Categoria": "Mídia Digital"
+        },
+        {
+            "Codigo": "MGCO 078",
+            "Empresa": "Unimed Belo Horizonte - Cooperativa de Trabalho Médico",
+            "Título do Projeto": "Eventos Digitais Unimed-BH: Desperta Virtual, Circuito Unimed Ativa em casa e House Run Unimed-BH.",
+            "Categoria": "Mídia Digital"
+        },
+        {
+            "Codigo": "NONE 005",
+            "Empresa": "COELBA - Companhia de Eletricidade do Estado da Bahia",
+            "Título do Projeto": "6 Milhões de Conexões Reais",
+            "Categoria": "Mídia Digital "
+        },
+        {
+            "Codigo": "SP 072",
+            "Empresa": "IFOOD.COM",
+            "Título do Projeto": "Construção da marca empregadora nas redes: de startup de garagem a foodtech desejo",
+            "Categoria": "Mídia Digital"
+        },
+        {
+            "Codigo": "SUL 028",
+            "Empresa": "Valmet Celulose, Papel e Energia",
+            "Título do Projeto": "Transformação digital: o papel dos meios digitais na transformação cultural",
+            "Categoria": "Mídia Digital "
+        },
+        {
+            "Codigo": "MGCO 011",
+            "Empresa": "Anglogold Ashanti Córrego do Sítio Mineração",
+            "Título do Projeto": "Publicações Internas Anglogold Ashanti",
+            "Categoria": "Mídia Impressa "
+        },
+        {
+            "Codigo": "SP 089",
+            "Empresa": "Klabin",
+            "Título do Projeto": "Folder Institucional Embalagens - Um folder e as inúmeras possibilidades de se imprimir uma marca",
+            "Categoria": "Mídia Impressa"
+        },
+        {
+            "Codigo": "SP 124",
+            "Empresa": "Suzano S.A.",
+            "Título do Projeto": "O Relatório Anual 2019 da Suzano como um hub de informação sobre o primeiro ano da história da companhia",
+            "Categoria": "Publicação Especial "
+        },
+        {
+            "Codigo": "SUL 012",
+            "Empresa": "Cooperativa de Crédito Livre Ad Asso do Leste SC e PR",
+            "Título do Projeto": "Unicred União - Feito à Mão - As pessoas no centro das transformações",
+            "Categoria": "Publicação Especial "
+        }
+    ]
+}
